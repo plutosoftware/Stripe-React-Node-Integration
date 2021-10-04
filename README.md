@@ -1,6 +1,6 @@
 # Stripe Integration with ReactJS and NodeJS
 
-Stripe is usefull for collecting online digital payments with its extensive payment related products portfolio and useful APIs for building applications arount it. It can be used as payment gateway for variety of applications.
+Stripe is useful for collecting online digital payments with its extensive payment related products portfolio and useful APIs for building applications arount it. It can be used as payment gateway for variety of applications.
 
 ## Steps to Get Started :
 
