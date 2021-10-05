@@ -24,7 +24,7 @@ app.post("/api/payment", async (req, res) => {
             success: true,
         });
     } catch (error) {
-        console.log("stripe-routes.js 17 | error", error);
+        console.log(error);
     }
 });
 
